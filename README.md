@@ -25,7 +25,7 @@
   <pre><code>git clone <em>repository_url</em></code></pre>
 
   <li>Run the main application:</li>
-  <pre><code>python main_app.py</code></pre>
+  <pre><code>python main.py</code></pre>
 </ol>
 
 <p>Explore, contribute, and enhance this webhook app on GitHub!</p>
