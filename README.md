@@ -18,6 +18,14 @@
   <li><strong>JSON:</strong> For handling JSON data.</li>
 </ul>
 
+<h2>Requirements:</h2>
+
+<p>This project relies on the following Python packages. You can install them using:</p>
+
+<pre><code>pip install -r requirements.txt</code></pre>
+
+<p>Make sure to have Python and pip installed on your machine.</p>
+
 <h2>Getting Started:</h2>
 
 <ol>
