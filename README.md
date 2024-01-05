@@ -22,7 +22,7 @@
 
 <ol>
   <li>Clone the repository:</li>
-  <pre><code>git clone <em>[repository_url](https://github.com/LifeIsACage/Discord_webhooks_messages/tree/main)</em></code></pre>
+  <pre><code>git clone https://github.com/LifeIsACage/Discord_webhooks_messages/tree/main</code></pre>
 
   <li>Run the main application:</li>
   <pre><code>python main.py</code></pre>
