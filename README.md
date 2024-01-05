@@ -1,9 +1,5 @@
 <h1 align="center">Webhook App with Python Tkinter GUI</h1>
 
-<p align="center">
-  <img src="your_app_image_url_here" alt="Webhook App Logo/Preview">
-</p>
-
 <p>Enhance your webhook interaction with this Python application featuring a user-friendly GUI built using Tkinter. Send and receive messages effortlessly through an intuitive interface.</p>
 
 <h2>Key Features:</h2>
@@ -35,10 +31,10 @@
 <p>Explore, contribute, and enhance this webhook app on GitHub!</p>
 
 <p align="center">
-  <a href="https://github.com/your_username/your_repository/stargazers">
-    <img src="https://img.shields.io/github/stars/your_username/your_repository.svg" alt="GitHub Stars">
+  <a href="https://github.com/LifeIsACage/Discord_webhooks_messages/stargazers">
+    <img src="https://img.shields.io/github/stars/LifeIsACage/Discord_webhooks_messages.svg" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/your_username/your_repository/issues">
-    <img src="https://img.shields.io/github/issues/your_username/your_repository.svg" alt="GitHub Issues">
+  <a href="https://github.com/LifeIsACage/Discord_webhooks_messages/issues">
+    <img src="https://img.shields.io/github/issues/LifeIsACage/Discord_webhooks_messages.svg" alt="GitHub Issues">
   </a>
 </p>
