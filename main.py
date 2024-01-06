@@ -96,6 +96,10 @@ class WebhookAppGUI:
     def on_send_message(self, message_entry, message_history):
         # Handle sending a message
         msg = str(message_entry.get())
+
+        # Handle empty a message        
+        if len(msg) < 1:    return
+        
         self.send_message(msg)
 
         # Append the sent message to the message_history textbox
